@@ -24,7 +24,7 @@ Rouges: I-O-P-L.
 ## Installation:
 ```
 git clone https://github.com/NeKroFR/NDC-2022.git
-pip3 install pyxel
+pip3 install pyxel==1.9.0
 ```
 
 (Nous avons été évalué avec les terminales car nous avons utilisé la POO)
